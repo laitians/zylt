@@ -1,2 +1,2 @@
 # zylt
-原神官网源码，html+css，刚学
+仿官网源码，html+css
